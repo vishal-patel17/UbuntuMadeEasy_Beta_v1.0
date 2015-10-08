@@ -18,3 +18,7 @@ apt-get install arp-scan -y
 
 feel free to suggest :
 email: vishal92.p@gmail.com
+
+
+windows version is available on: 
+windowsmadeeasy.weebly.com
